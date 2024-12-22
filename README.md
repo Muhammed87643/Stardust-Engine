@@ -27,7 +27,7 @@ The engine is broken up into multiple submodules that make up the engine, and th
 - Rendering - Done*
 - Sprites - Done*
 - 2D Lighting - Done
-- UI - Done*
+- UI - Done
 - 2D Controllers - Done
 - 2D Physics - Done
 - Animations - Done for 2D
